@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Web Design Company Billings, Montana]]></title>
-        <description><![CDATA[Web Design Company Billings, Montana]]></description>
+        <title><![CDATA[SkyPoint Studios is a Web Design Company Billings, Montana]]></title>
+        <description><![CDATA[SkyPoint Studios is a Web Design Company Billings, Montana]]></description>
         <link>https://thegrid.ai/skypoint-studios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 20:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 20:22:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/skypoint-studios/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Web Design Samples]]></title>
-            <description><![CDATA[<article><h1>Web Design Samples</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4263006cfb2a41def9f71d333e92edda1112859.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Web Design Samples</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc05d9a2-2c6b-482b-8d23-b1d24a150821.jpg"></article>]]></description>
             <link>https://thegrid.ai/skypoint-studios/web-design-samples/index.html</link>
             <guid isPermaLink="false">7417e2a2-3c88-49e3-85f1-a5c578ffca1b</guid>
-            <pubDate>Thu, 18 Feb 2016 20:14:02 GMT</pubDate>
+            <pubDate>Thu, 18 Feb 2016 20:21:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
