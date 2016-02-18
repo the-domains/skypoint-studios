@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-18T20:14:02.629Z'
-dateModified: '2016-02-18T20:13:51.050Z'
+datePublished: '2016-02-18T20:21:43.098Z'
+dateModified: '2016-02-18T20:20:49.250Z'
 title: Web Design Samples
 author: []
 sourcePath: _posts/2016-02-18-web-design-samples.md
@@ -22,7 +22,7 @@ url: web-design-samples/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6b7208c-9e74-4866-b8c9-5642afdbcbeb.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc05d9a2-2c6b-482b-8d23-b1d24a150821.jpg)
 
 ## Specializing in SEO
 
@@ -43,6 +43,7 @@ Keep up with our development team at SkyPoint Studios with many cutting edge tec
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65f04ea9-dde0-4a6b-9516-f9239bbcf944.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9da24e42-ae69-49b7-bb3d-6d34c22f07a6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3244d2b5-e86c-4626-af39-af15fa8c73fe.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6b7208c-9e74-4866-b8c9-5642afdbcbeb.JPG)
 
 [0]: https://skypointwebdesignbillingsmontana.com/sample-of-web-design/ "SkyPoint Studios Web Design Billings Montana Web Portfolio"
 [1]: https://skypointwebdesignbillingsmontana.com/tech-blog/ "SkyPoint Blog - Technology Blog Billings Montana"
